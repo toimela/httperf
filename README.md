@@ -1,5 +1,7 @@
 # httperf
-Fedora based httperf container
+Fedora based httperf container. Source: https://github.com/httperf/httperf
+
+Easy way of generating traffic on environments which don't have httperf available.
 
 # Building
 ```
